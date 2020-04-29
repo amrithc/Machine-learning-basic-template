@@ -1,5 +1,5 @@
 # Machine-learning-basic-template
-Basic template for Machine learning algorithms for starters using Sklearn library.
+Basic template for Machine learning algorithms for starters using scikit-learn library.
 
 Machine Learning Regression algorithms included:
 a) Simple linear Regression
